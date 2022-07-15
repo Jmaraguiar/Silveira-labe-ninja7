@@ -1,6 +1,6 @@
-#Labeninja
+# Labeninja
 
-#sobre o projeto
+# sobre o projeto
 
 Link do surge: https://labeninja7.surge.sh/
 
