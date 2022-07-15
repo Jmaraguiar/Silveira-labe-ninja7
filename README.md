@@ -2,6 +2,8 @@
 
 # sobre o projeto
 
+O projeto Labeninja é uma aplicação web front-end 
+
 Link do surge: https://labeninja7.surge.sh/
 
 Integrantes do Grupo:
